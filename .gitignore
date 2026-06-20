@@ -1,6 +1,4 @@
 .vscode/
-gVXR_tests/tests_tomography/Frog_XCT/xct_control/__pycache__/
-gVXR_tests/tests_tomography/Frog_XCT/frog_xct_results/
 *.tif
 *.tiff
 __pycache__/
